@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='funniest',
+setup(name='ohmlaws',
         version='0.1',
-        description='The funniest joke in the world',
+        description='The formula of electrical enginering ',
         url='http://github.com/storborg/funniest',
-        author='Flying Circus',
-        author_email='flyingcircus@example.com',
+        author='M afif Nur Azizi',
+        author_email='afifnurazizi@gmail.com',
         license='MIT',
-        packages=['funniest'],
+        packages=['electrical_formula'],
         zip_safe=False)
