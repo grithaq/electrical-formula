@@ -1,0 +1,7 @@
+electrical_formula/_init_.py
+electrical_formula/ohmlaw.py
+ohmlaws.egg-info/PKG-INFO
+ohmlaws.egg-info/SOURCES.txt
+ohmlaws.egg-info/dependency_links.txt
+ohmlaws.egg-info/not-zip-safe
+ohmlaws.egg-info/top_level.txt
