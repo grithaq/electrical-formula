@@ -7,5 +7,5 @@ setup(name='ohmlaws',
         author='M afif Nur Azizi',
         author_email='afifnurazizi@gmail.com',
         license='MIT',
-        packages=['ohmlaws'],
+        packages : ['ohmlaws'],
         zip_safe=False)
