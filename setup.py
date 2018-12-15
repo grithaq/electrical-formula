@@ -8,4 +8,7 @@ setup(name='ohmlaws',
         author_email='afifnurazizi@gmail.com',
         license='MIT',
         packages=['ohm_formula'],
+        install_requires=[
+          'markdown'
+          ],
         zip_safe=False)
