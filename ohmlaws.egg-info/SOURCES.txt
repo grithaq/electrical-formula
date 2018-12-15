@@ -1,4 +1,4 @@
-electrical_formula/_init_.py
+electrical_formula/__init__.py
 electrical_formula/ohmlaw.py
 ohmlaws.egg-info/PKG-INFO
 ohmlaws.egg-info/SOURCES.txt
