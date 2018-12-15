@@ -8,6 +8,9 @@ setup(name='ohmlaws',
         author_email='afifnurazizi@gmail.com',
         license='MIT',
         packages=['ohm_formula'],
+        dependency_links=[
+                'https://github.com/zizonk/electrical-formula'
+        ],
         install_requires=[
           'markdown'
           ],
