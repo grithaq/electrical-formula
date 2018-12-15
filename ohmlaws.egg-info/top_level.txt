@@ -1,1 +1,1 @@
-electrical_formula
+ohm_formula
