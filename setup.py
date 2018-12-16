@@ -11,7 +11,7 @@ setuptools.setup(
     description="The formula of electrical enginering",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/zizonk/electrical-formula.git",
+    url="https://test.pypi.org/legacy/",
     packages=['electrical_formula'],
     classifiers=[
         "Programming Language :: Python :: 3",
