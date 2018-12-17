@@ -1,7 +1,7 @@
 from setuptools import setup
 
 
-setup(name='ohmlaws',
+setup(name='electrical_formula',
         version='0.1',
         description='The formula of electrical enginering ',
         url='https://github.com/zizonk/electrical-formula.git',
