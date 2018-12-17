@@ -8,7 +8,7 @@ setup(name='ohmlaws',
         author='M afif Nur Azizi',
         author_email='afifnurazizi@gmail.com',
         license='MIT',
-        packages=['electrical_formula'],
+        packages=['ohmlaws'],
         
         dependency_links=[
                 'https://github.com/zizonk/electrical-formula'
