@@ -5,5 +5,4 @@ ohmlaws.egg-info/PKG-INFO
 ohmlaws.egg-info/SOURCES.txt
 ohmlaws.egg-info/dependency_links.txt
 ohmlaws.egg-info/not-zip-safe
-ohmlaws.egg-info/requires.txt
 ohmlaws.egg-info/top_level.txt

@@ -1,4 +1,4 @@
-Metadata-Version: 1.0
+Metadata-Version: 2.1
 Name: ohmlaws
 Version: 0.1
 Summary: The formula of electrical enginering 
@@ -8,3 +8,4 @@ Author-email: afifnurazizi@gmail.com
 License: MIT
 Description: UNKNOWN
 Platform: UNKNOWN
+Description-Content-Type: text/markdown
